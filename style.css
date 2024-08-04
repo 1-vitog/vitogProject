@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #f0f0f0;
+}
+
+.info h2 {
+  text-align: center;
+  color: purple;
+  background: #718fff;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
